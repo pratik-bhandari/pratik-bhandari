@@ -7,7 +7,6 @@ Check out my [website](https://pratikb.com) to learn more. Let's get in touch: `
 
 Find me elsewhere on the world wide web, and see my different faces:
 - [LinkedIn](https://linkedin.com/in/prbhx/)
-- [Mastodon](https://neuromatch.social/@pratikb)
 - [Twitter](https://twitter.com/prbhx)
 - [Bluesky](https://bsky.app/profile/pratikb.com)
 
