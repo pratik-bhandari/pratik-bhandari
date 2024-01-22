@@ -3,7 +3,7 @@
 I am a former academic who worked on predictive processing, langauge comprehension, metacognition, visual priming, and cognitive (neuro)science at large.
 Currently, I am studying computational tools in climate science as a person concerned about the devastating effects of climate change on people's livelihood.
 
-Check out my [website](https://pratikb.com) to learn more. Let's get in touch: `contact@pratikb.com`
+Check out my [website](https://pratikb.com) to learn more. Let's get in touch: `monday.afternoon028@passinbox.com`
 
 Find me elsewhere on the world wide web, and see my different faces:
 - [LinkedIn](https://linkedin.com/in/prbhx/)
