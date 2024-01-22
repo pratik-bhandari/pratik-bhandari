@@ -9,6 +9,7 @@ Find me elsewhere on the world wide web, and see my different faces:
 - [LinkedIn](https://linkedin.com/in/prbhx/)
 - [Twitter](https://twitter.com/prbhx)
 - [Bluesky](https://bsky.app/profile/pratikb.com)
+- <a rel="me" href="https://neuromatch.social/@pratikb">Mastodon</a>
 
 Here you will find my open and archived public repos primarily related to my projects in graduate school and earlier. Codes I wrote for `         ` will be public in the coming days ;)
 
