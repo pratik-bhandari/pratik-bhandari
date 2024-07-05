@@ -9,7 +9,7 @@ I focus on topics such as multilingual language processing, metacognition, visua
 
 My [research](https://zenodo.org/records/12192494) in climate science includes understanding the interaction between increasing global temperatures and extreme weather events and how these phenomena affect people's livelihoods, particularly in regions like Nepal with small carbon footprints.
 
-Check out my [website](https://pratikb.com) to learn more. If you wish, let's get in touch: `monday.afternoon028@passinbox.com`
+Check out my [website](https://pratikb.com) to learn more. If you wish, let's get in touch: `work@pratikb.com`
 
 <!--- <a rel="me" href="https://neuromatch.social/@pratikb">Mastodon</a> -->
 <!---
